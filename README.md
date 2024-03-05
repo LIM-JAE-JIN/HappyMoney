@@ -1,51 +1,54 @@
 # <img src="https://github.com/nbcamp-HappyMoney/HappyMoney/blob/dev/assets/images/favicon.png"  width="30" height="30"/> HappyMoney
 
-
 #### 당신에게 1억이 주어진다면?
 
 <br>
 
 #### 🏠 배포 주소 : [HappyMoney](https://happymoneynow.com/views/main.html)
+
 #### 📊 작업 로그 : [Notion](https://www.notion.so/a7ef569785744b1099a268f691db41ff?pvs=4)
+
 #### 📌 브로 슈어 : [Brochure](https://www.notion.so/A-3-HAPPY-MONEY-84c6ffd6f0cc49768bd7f4f1fadf50dc?pvs=4)
 
--------------------
+#### 🏆 수상 내역
+
+![내배캠최우수상 - Happy Money](https://github.com/nbcamp-HappyMoney/HappyMoney/assets/147799382/05d851ef-fde5-430e-8c4e-ee2964945d23)
+
+---
 
 <br>
 
 # 📝 소개
 
-* **프로젝트명** : HappyMoney
-* **기간** : 2024년 1월 12일 ~ 2024년 2월 20일
-* **주제** : 가상 포인트를 사용하여 부담없이 시도해볼 수 있는 모의 투자 서비스 & 의견을 교류하고 소통이 가능한 커뮤니티 서비스
-* **주요기능** 
+- **프로젝트명** : HappyMoney
+- **기간** : 2024년 1월 12일 ~ 2024년 2월 20일
+- **주제** : 가상 포인트를 사용하여 부담없이 시도해볼 수 있는 모의 투자 서비스 & 의견을 교류하고 소통이 가능한 커뮤니티 서비스
+- **주요기능**
   1. 실시간 호가 데이터를 바탕으로한 주식 주문 기능
-  2. 모의투자 결과를 바탕으로한 랭킹 기능 
+  2. 모의투자 결과를 바탕으로한 랭킹 기능
   3. 대기 주문체결, 댓글, 쪽지 수신 시 웹 푸시 알림 기능
-<br>
+     <br>
 
 # 👨‍👩‍👧‍👦Team Members
 
-| Position      | Name          |    Github                                            | Tech Blog                               |
-|:--------------|:--------------|:-----------------------------------------------------|-----------------------------------------|
-| Backend       | 문준식        | [Geniusjun6](https://github.com/Geniusjun6)           |https://geniusjun6.tistory.com/          |
-| Backend       | 임재진        | [LIM-JAE-JIN](https://github.com/LIM-JAE-JIN)         |https://wowls9416.tistory.com/           |
-| Backend       | 이상권        | [sangkwonlee1722](https://github.com/sangkwonlee1722) |https://github.com/sangkwonlee1722       |
-| Backend       | 김주완        | [nugabah](https://github.com/nugabah)                 |https://columen2357.tistory.com/         |
-| Backend       | 김민재        | [kimminjae981002](https://github.com/kimminjae981002) |https://velog.io/@minjae98/posts         |
+| Position | Name   | Github                                                | Tech Blog                          |
+| :------- | :----- | :---------------------------------------------------- | ---------------------------------- |
+| Backend  | 문준식 | [Geniusjun6](https://github.com/Geniusjun6)           | https://geniusjun6.tistory.com/    |
+| Backend  | 임재진 | [LIM-JAE-JIN](https://github.com/LIM-JAE-JIN)         | https://wowls9416.tistory.com/     |
+| Backend  | 이상권 | [sangkwonlee1722](https://github.com/sangkwonlee1722) | https://github.com/sangkwonlee1722 |
+| Backend  | 김주완 | [nugabah](https://github.com/nugabah)                 | https://columen2357.tistory.com/   |
+| Backend  | 김민재 | [kimminjae981002](https://github.com/kimminjae981002) | https://velog.io/@minjae98/posts   |
 
 <br>
 
 # 📹 주요 기능 사진
+
 <details>
 <summary> #1 실시간 호가 데이터를 바탕으로한 주식 주문 기능 </summary>
 <div markdown="1">
 
-
-
 ![실시간호가](https://github.com/nbcamp-HappyMoney/HappyMoney/assets/147799382/99943d1d-d00c-47b7-b877-37b4a7bb7e1d)
 ![실시간호가사진](https://github.com/nbcamp-HappyMoney/HappyMoney/assets/147799382/6449d5f6-4d18-4feb-a1ac-08e2020734da)
-
 
 </div>
 </details>
@@ -53,8 +56,6 @@
 <details>
 <summary> #2 모의투자 결과를 바탕으로한 랭킹 기능  </summary>
 <div markdown="1">
-
-
 
 ![랭킹1](https://github.com/nbcamp-HappyMoney/HappyMoney/assets/147799382/80caed7f-c183-4774-a9ab-0c1989148a10)
 ![랭킹2](https://github.com/nbcamp-HappyMoney/HappyMoney/assets/147799382/2753298e-8eb5-4994-9778-1d7ce8139e9a)
@@ -66,11 +67,8 @@
 <summary> #3 대기 주문체결, 댓글, 쪽지 수신 시 웹 푸시 알림 기능 </summary>
 <div markdown="1">
 
-
-
 ![웹푸쉬알림](https://github.com/nbcamp-HappyMoney/HappyMoney/assets/147799382/4a1e7a82-50c1-4684-833e-d49b339218c5)
 ![웹푸시1](https://github.com/nbcamp-HappyMoney/HappyMoney/assets/147799382/5cf1b258-22da-4660-a515-5bad011f836f)
-
 
 </div>
 </details>
@@ -79,12 +77,9 @@
 <summary> #4 커뮤니티 </summary>
 <div markdown="1">
 
-
-
 ![커뮤니티1](https://github.com/nbcamp-HappyMoney/HappyMoney/assets/147799382/3dc01791-d561-4cc6-8a2f-365253db725d)
 ![커뮤니티2](https://github.com/nbcamp-HappyMoney/HappyMoney/assets/147799382/5752ff69-49f4-4900-b63c-99fb85d7e1c6)
 ![커뮤니티3](https://github.com/nbcamp-HappyMoney/HappyMoney/assets/147799382/0a0b0e39-cb60-4b5b-8b28-624b871d4985)
-
 
 </div>
 </details>
@@ -161,21 +156,21 @@
 
 <br>
 
-#  📒 ERD
+# 📒 ERD
 
 https://dbdiagram.io/d/Final_Project_HappyMoney-658a371b89dea6279988f566
 
 <br>
 
-#  📗 와이어 프레임
+# 📗 와이어 프레임
 
 https://www.figma.com/file/g1xNcU7RORoY56gcK8QJnz/Final_Project_Happy_Money?type=design&node-id=0-1&mode=design
 
 <br>
 
-#  📘 API 명세서(SWAGGER)
+# 📘 API 명세서(SWAGGER)
 
-https://happymoneynow.com/api-docs 
+/api-docs
 
 <br>
 
@@ -187,131 +182,120 @@ https://happymoneynow.com/api-docs
 <details>
 <summary>1) 배경</summary>
 
-- 실시간 호가 데이터는 한국 투자 Open API 사용 중
-    - **제한 사항 1**
-        - 주식 코드로 요청 후 다른 주식 코드로 요청 시 중복 되어 한국 투자OpenAPI에서 응답 
-        ex) **005930을 보내고 006800을 보내면 둘 다 응답 데이터가 전달** 됨
-    - **제한 사항 2**
-        - 중복된 코드가 20개 이상이 되면 OpenAPI에서 오는 응답 속도가 현저히 느려짐
-        - 중복된 코드가 40개 초과 시 한국 투자 OpenAPI에서 연결이 차단됨
+- 실시간 호가 데이터는 한국 투자 Open API 사용 중 - **제한 사항 1** - 주식 코드로 요청 후 다른 주식 코드로 요청 시 중복 되어 한국 투자OpenAPI에서 응답
+ex) **005930을 보내고 006800을 보내면 둘 다 응답 데이터가 전달** 됨 - **제한 사항 2** - 중복된 코드가 20개 이상이 되면 OpenAPI에서 오는 응답 속도가 현저히 느려짐 - 중복된 코드가 40개 초과 시 한국 투자 OpenAPI에서 연결이 차단됨
 </details>
 
 <details>
 <summary>2) 해결 방안</summary>
 
 - **1. 해당 주식 코드의 응답만 클라이언트에게 전달**
-    - **내용**
-        - 서버에서 한국 투자 OpenAPI에서 온 응답 데이터를 해당 주식 코드와 같은 데이터만 클라이언트에 보내주게 작업
-    - **구현 코드**
-        
-        ```tsx
-        // server
-        
-        // 메시지 수신 이벤트 핸들러
-        this.wsClient.on("message", async (data) => {
-          const messageString = data.toString(); // Buffer를 문자열로 변환
-          const jsonData = this.stockhoka(messageString);
-          const addCode = jsonData.mksc_shrn_iscd.split("|")[3];
-          try {
-        
-        		// 응답 받은 데이터의 주식 코드와 클라이언트에서 보낸 주식 코드 비교
-            if (addCode === tr_key) {
-              this.server.emit(`asking_price_${tr_key}`, jsonData);
-            }
-          } catch (error) {
-            console.error("Error parsing JSON:", error);
-          }
-        });
-        ```
-        
+  - **내용**
+    - 서버에서 한국 투자 OpenAPI에서 온 응답 데이터를 해당 주식 코드와 같은 데이터만 클라이언트에 보내주게 작업
+  - **구현 코드**
+    ```tsx
+    // server
+
+    // 메시지 수신 이벤트 핸들러
+    this.wsClient.on("message", async (data) => {
+      const messageString = data.toString(); // Buffer를 문자열로 변환
+      const jsonData = this.stockhoka(messageString);
+      const addCode = jsonData.mksc_shrn_iscd.split("|")[3];
+      try {
+        // 응답 받은 데이터의 주식 코드와 클라이언트에서 보낸 주식 코드 비교
+        if (addCode === tr_key) {
+          this.server.emit(`asking_price_${tr_key}`, jsonData);
+        }
+      } catch (error) {
+        console.error("Error parsing JSON:", error);
+      }
+    });
+    ```
 - **2. 응답을 보내는 주식 코드가 20개 초과 시 WebSocket 재 연결**
-    - **내용**
-        - 클라이언트에서 보낸 주식 코드를 배열에 담아 체크하여 20개 초과 시 한국 투자 OpenAPI의 재 연결
-            - 비 동기 적으로 처리 될 때, 서버가 연결되기 전 데이터를 받아 연결이 제대로 이루어지지 않아 new Promise로 동기적으로 수행
-            - 재 연결 후 기존에 실시간 호가를 보고 있던 클라이언트들의 데이터가 재 연결한 클라이언트의 해당 주식의 실시간 호가로 바뀌기 때문에 refresh 이벤트 처리로 클라이언트에서 리다이렉트 처리
-    - **구현 코드**
-        
-        ```tsx
-        // stock.gateway.ts
-        private addStock: string[] = [];
-        
-        private async initializeWebSocketClient() {
-          if (!this.wsClient) {
-            try {
-              const url = "ws://ops.koreainvestment.com:21000/tryitout/H0STASP0";
-              this.wsClient = new WebSocket(url);
-              await new Promise((resolve, reject) => {
-                this.wsClient.on("open", () => {
-                  console.log("WebSocket connected");
-                  resolve(true);
-                });
-                this.wsClient.on("error", (err) => {
-                  console.error("WebSocket error:", err);
-                  reject(err);
-                });
-              });
-            } catch (error) {
-              console.log("Failed to initialize WebSocket:", error);
-            }
-          }
-        }
-        
-        // 실시간 호가API
-          @SubscribeMessage("asking_price")
-          async getAskingPrice(@MessageBody() tr_key: string) {
-        		// 중복되지 않은 주식 코드 배열에 추가
-            if (!this.addStock.includes(tr_key)) {
-              this.addStock.push(tr_key); // addCode 추가
-            }
-        		// 주식 코드 20개 초과 시 연결 끊고
-            if (this.addStock.length > 20) {
-              await new Promise((resolve) => {
-                this.wsClient.on("close", () => {
-                  console.log("WebSocket disconnected.");
-                  resolve(true);
-                });
-                this.wsClient.terminate();
-              });
-              this.wsClient = null;
-              this.addStock = [];
-        
-        			// 연결 끊었을 때, 클라이언트에 refresh 이벤트 보내기
-              this.server.emit("refresh", {});
-            }
-        		// 웹소켓 다시 연결
-            await this.initializeWebSocketClient();
-        		
-        		// 그 외 로직......
-        }
-        ```
-        
-        ```tsx
-        // stock-detail.js
-        
-        function livePriceData() {
-          // 여기에서 새로운 WebSocket 연결을 생성하고 반환
-          const socket = io('/ws/stock', {
-            transports: ['websocket'],
+  - **내용**
+    - 클라이언트에서 보낸 주식 코드를 배열에 담아 체크하여 20개 초과 시 한국 투자 OpenAPI의 재 연결
+      - 비 동기 적으로 처리 될 때, 서버가 연결되기 전 데이터를 받아 연결이 제대로 이루어지지 않아 new Promise로 동기적으로 수행
+      - 재 연결 후 기존에 실시간 호가를 보고 있던 클라이언트들의 데이터가 재 연결한 클라이언트의 해당 주식의 실시간 호가로 바뀌기 때문에 refresh 이벤트 처리로 클라이언트에서 리다이렉트 처리
+  - **구현 코드**
+    ```tsx
+    // stock.gateway.ts
+    private addStock: string[] = [];
+
+    private async initializeWebSocketClient() {
+      if (!this.wsClient) {
+        try {
+          const url = "ws://ops.koreainvestment.com:21000/tryitout/H0STASP0";
+          this.wsClient = new WebSocket(url);
+          await new Promise((resolve, reject) => {
+            this.wsClient.on("open", () => {
+              console.log("WebSocket connected");
+              resolve(true);
+            });
+            this.wsClient.on("error", (err) => {
+              console.error("WebSocket error:", err);
+              reject(err);
+            });
           });
-        
-          // 연결 성공 시 동작
-          socket.on('connect', () => {
-        
-            // 메시지 전송
-            socket.emit('asking_price', trKey);
-          });
-        
-        	// 3초 뒤 기존 클라이언트가 보고 있는 페이지 새로고침
-          socket.on('refresh', function () {
-            setTimeout(function () {
-              alert('실시간 호가 데이터가 수정되었습니다.');
-              location.reload();
-            }, 3000);
-          });
-        	
-        	// 그 외 로직......
+        } catch (error) {
+          console.log("Failed to initialize WebSocket:", error);
         }
-        ```
+      }
+    }
+
+    // 실시간 호가API
+      @SubscribeMessage("asking_price")
+      async getAskingPrice(@MessageBody() tr_key: string) {
+    		// 중복되지 않은 주식 코드 배열에 추가
+        if (!this.addStock.includes(tr_key)) {
+          this.addStock.push(tr_key); // addCode 추가
+        }
+    		// 주식 코드 20개 초과 시 연결 끊고
+        if (this.addStock.length > 20) {
+          await new Promise((resolve) => {
+            this.wsClient.on("close", () => {
+              console.log("WebSocket disconnected.");
+              resolve(true);
+            });
+            this.wsClient.terminate();
+          });
+          this.wsClient = null;
+          this.addStock = [];
+
+    			// 연결 끊었을 때, 클라이언트에 refresh 이벤트 보내기
+          this.server.emit("refresh", {});
+        }
+    		// 웹소켓 다시 연결
+        await this.initializeWebSocketClient();
+
+    		// 그 외 로직......
+    }
+    ```
+    ```tsx
+    // stock-detail.js
+
+    function livePriceData() {
+      // 여기에서 새로운 WebSocket 연결을 생성하고 반환
+      const socket = io("/ws/stock", {
+        transports: ["websocket"]
+      });
+
+      // 연결 성공 시 동작
+      socket.on("connect", () => {
+        // 메시지 전송
+        socket.emit("asking_price", trKey);
+      });
+
+      // 3초 뒤 기존 클라이언트가 보고 있는 페이지 새로고침
+      socket.on("refresh", function () {
+        setTimeout(function () {
+          alert("실시간 호가 데이터가 수정되었습니다.");
+          location.reload();
+        }, 3000);
+      });
+
+      // 그 외 로직......
+    }
+    ```
 
 </details>
 </details>
@@ -324,7 +308,7 @@ https://happymoneynow.com/api-docs
 <summary>1) 배경</summary>
 
 - 특정 요인(서버 과부하, 잘못된 코드 설계)으로 인한 서버 다운 시 모니터링 시스템 구축 필요
-    
+
 </details>
 
 <details>
@@ -377,44 +361,42 @@ https://happymoneynow.com/api-docs
 <details>
 <summary>1) 배경</summary>
 
-- 동시간대에 많은 주문이 들어올 경우 순차적으로 주문을 처리 필요
-    - 기본적인 주식 주문 처리 원칙은 먼저 들어온 순서대로 처리 진행
+- 동시간대에 많은 주문이 들어올 경우 순차적으로 주문을 처리 필요 - 기본적인 주식 주문 처리 원칙은 먼저 들어온 순서대로 처리 진행
 </details>
 <details>
 <summary>2) 해결 방안</summary>
 
 - **1. Nest.js Bull 라이브러리를 활용하여 비동기 분산 처리**
-    - **내용**
-        - 주문이 들어올 경우 redis 큐에 넣어 순차적으로 처리
-        - 주문 처리의 부하를 분산 및 시스템의 안정성을 높이게 됨
-    - **구현 코드**
-        
-        ```tsx
-        // order.service.ts
-        
-        // 구매(매수)API
-          async buyStock({ id }: User, { stockName, stockCode, orderNumbers, price, status }: CreateOrderDto) {
-        		......
-            try {
-              // 주문 데이터를 Redis 큐에 추가
-              await this.ordersQueue.add(
-                "buy",
-                { buyOrder, id },
-                {
-                  priority: 1, // 우선순위 설정
-                  attempts: 3, // 주문 처리가 실패했을 때 최대 3번까지 재시도
-                  backoff: 1000, // 재시도 간의 지연 시간
-                  removeOnComplete: true, // 주문이 성공적으로 처리되면 큐에서 제거
-                  jobId: `${buyOrder.userId}-${buyOrder.stockCode}-${buyOrder.buySell}-${Date.now()}` // 주문 ID를 설정
-                }
-              );
-            } catch (error) {
-              console.error(error);
-              throw error;
+  - **내용**
+    - 주문이 들어올 경우 redis 큐에 넣어 순차적으로 처리
+    - 주문 처리의 부하를 분산 및 시스템의 안정성을 높이게 됨
+  - **구현 코드**
+    ```tsx
+    // order.service.ts
+
+    // 구매(매수)API
+      async buyStock({ id }: User, { stockName, stockCode, orderNumbers, price, status }: CreateOrderDto) {
+    		......
+        try {
+          // 주문 데이터를 Redis 큐에 추가
+          await this.ordersQueue.add(
+            "buy",
+            { buyOrder, id },
+            {
+              priority: 1, // 우선순위 설정
+              attempts: 3, // 주문 처리가 실패했을 때 최대 3번까지 재시도
+              backoff: 1000, // 재시도 간의 지연 시간
+              removeOnComplete: true, // 주문이 성공적으로 처리되면 큐에서 제거
+              jobId: `${buyOrder.userId}-${buyOrder.stockCode}-${buyOrder.buySell}-${Date.now()}` // 주문 ID를 설정
             }
-          }
-        ```
-    
+          );
+        } catch (error) {
+          console.error(error);
+          throw error;
+        }
+      }
+    ```
+
 </details>
 </details>
 <br>
@@ -431,40 +413,34 @@ https://happymoneynow.com/api-docs
 <summary>2) 해결 방안</summary>
 
 - **1. DB 내 민감 데이터 암호화**
-    - **내용**
-        - 민감한 정보로 판단되는 모든 데이터에 암호화를 적용한다.
-            - 유저 전화번호, 주식 거래내역, 보유 주식 수 등
-    
-    - **장점**
-        - 데이터를 탈취당하더라도 우리가 선정한 민감 정보는 암호화되어있어 상대적으로 안전
-    
-    - **단점**
-        - 현재 기준 시간적인 여유가 많지 않은 상황에서 전체적으로 코드를 수정하는 것에 대한 리스크
-    
-- **2. VPC Private Subnet 설정**
-    - **내용**
-        - VPC 내 Private Subnet을 설정하여 데이터베이스(RDS)는 EC2를 통해서만 접근 허용
-        
-    - **장점**
-        - 외부 접근 경로를 원천적으로 막아 외부의 공격을 방지
-    
-    - **단점**
-        - VPC 내에서 별도의 Private Subnet 추가 구성 및 관리 작업으로 인한 관리 복잡성 우려
-        - 외부 접근이 불가하기에 DB관련 외부 서비스 접근 불가 (DBeaver 등)
-    
-    - **선정 이유**
-        - 데이터 암호화 대비 투입되는 리소스가 상대적으로 적다고 판단함
-            - 현재 코드 그대로 외부의 서비스를 이용하기 때문
-        - 외부의 접근을 아예 막는 방식으로 탈취에 대한 우려를 상대적으로 적게 가져감
-        - 1차 작업을 VPC를 통해 보안성을 향상하고 추후 1번 방안을 추가하는 것으로 방향성 결정 !
-</details>
+  - **내용**
+    - 민감한 정보로 판단되는 모든 데이터에 암호화를 적용한다.
+      - 유저 전화번호, 주식 거래내역, 보유 주식 수 등
+  - **장점**
+    - 데이터를 탈취당하더라도 우리가 선정한 민감 정보는 암호화되어있어 상대적으로 안전
+  - **단점**
+    - 현재 기준 시간적인 여유가 많지 않은 상황에서 전체적으로 코드를 수정하는 것에 대한 리스크
+- **2. VPC Private Subnet 설정** - **내용** - VPC 내 Private Subnet을 설정하여 데이터베이스(RDS)는 EC2를 통해서만 접근 허용
+      - **장점**
+          - 외부 접근 경로를 원천적으로 막아 외부의 공격을 방지
+
+      - **단점**
+          - VPC 내에서 별도의 Private Subnet 추가 구성 및 관리 작업으로 인한 관리 복잡성 우려
+          - 외부 접근이 불가하기에 DB관련 외부 서비스 접근 불가 (DBeaver 등)
+
+      - **선정 이유**
+          - 데이터 암호화 대비 투입되는 리소스가 상대적으로 적다고 판단함
+              - 현재 코드 그대로 외부의 서비스를 이용하기 때문
+          - 외부의 접근을 아예 막는 방식으로 탈취에 대한 우려를 상대적으로 적게 가져감
+          - 1차 작업을 VPC를 통해 보안성을 향상하고 추후 1번 방안을 추가하는 것으로 방향성 결정 !
+  </details>
 
 </details>
-
 
 <br>
 
 # ⚙ Github Rules
+
 <details>   
 <summary> Branch Convention </summary>
     
@@ -476,29 +452,33 @@ https://happymoneynow.com/api-docs
 
 <details>
 <summary> Commit Convention </summary>
-<div markdown="1">  
+<div markdown="1">
 
- * Commit Type
+- Commit Type
+
 ```
-Feat        : 기능 (새로운 기능)  
-Fix         : 버그 (버그 수정)  
-Refactor    : 리팩토링  
-Design      : CSS 등 사용자 UI 디자인 변경  
-Comment     : 필요한 주석 추가 및 변경  
-Style       : 스타일 (코드 형식, 세미콜론 추가: 비즈니스 로직에 변경 없음)  
-Test        : 테스트 (테스트 코드 추가, 수정, 삭제: 비즈니스 로직에 변경 없음)  
-Chore       : 기타 변경사항 (빌드 스크립트 수정, assets, 패키지 매니저 등)  
-Init        : 초기 생성  
-Rename      : 파일 혹은 폴더명을 수정하거나 옮기는 작업만 한 경우  
-Remove      : 파일을 삭제하는 작업만 수행한 경우 
+Feat        : 기능 (새로운 기능)
+Fix         : 버그 (버그 수정)
+Refactor    : 리팩토링
+Design      : CSS 등 사용자 UI 디자인 변경
+Comment     : 필요한 주석 추가 및 변경
+Style       : 스타일 (코드 형식, 세미콜론 추가: 비즈니스 로직에 변경 없음)
+Test        : 테스트 (테스트 코드 추가, 수정, 삭제: 비즈니스 로직에 변경 없음)
+Chore       : 기타 변경사항 (빌드 스크립트 수정, assets, 패키지 매니저 등)
+Init        : 초기 생성
+Rename      : 파일 혹은 폴더명을 수정하거나 옮기는 작업만 한 경우
+Remove      : 파일을 삭제하는 작업만 수행한 경우
 ```
-* 예시
+
+- 예시
+
 ```
 Feat: [performance/read] 모든 공연 조회 API 추가
 1) 테스트 REST Client로 변경
 - 토큰값 자동으로 할당 가능
 - 다른 서비스 사용하지 않고 VS code 에서 처리 가능
 ```
+
 </div>
 </details>
 
@@ -519,22 +499,29 @@ Feat: [performance/read] 모든 공연 조회 API 추가
 #20
 
 진행사항
-1) 트랜잭션 처리
-* 예약 취소 시 예약 테이블 softDelete 처리 및 status값을 Canceled로 변경
-* 예약 취소 시 User 테이블 point 값을 totalPrice 만큼 추가(환불)
-* 예약 취소 시 Seat 테이블 status 값을 Possible로 변경 및 reservationId Null 값으로 변경
 
-2) 공연 시작 시간 기준 3시간 전에는 예약 취소 불가
-* 혹시 몰라 한국시간으로 변환 후 현재와 비교하여 3시간 미만 일 경우 에러 처리
+1. 트랜잭션 처리
+
+- 예약 취소 시 예약 테이블 softDelete 처리 및 status값을 Canceled로 변경
+- 예약 취소 시 User 테이블 point 값을 totalPrice 만큼 추가(환불)
+- 예약 취소 시 Seat 테이블 status 값을 Possible로 변경 및 reservationId Null 값으로 변경
+
+2. 공연 시작 시간 기준 3시간 전에는 예약 취소 불가
+
+- 혹시 몰라 한국시간으로 변환 후 현재와 비교하여 3시간 미만 일 경우 에러 처리
 
 특이사항
-1) 트랜잭션 처리 중 에러
-* 삭제의 경우 트랜잭션 내에서 유효성 검사를 하는 부분이 없어 try...catch를 통해 에러 던짐 (롤백)
 
-2) Controller에서 AuthGuard 잘못된 사용
-* AuthGuard 이렇게만 적어서 서버 시작 시 오류..
-* AuthGuard('jwt') 로 바꿔주었음 !
-```
+1. 트랜잭션 처리 중 에러
+
+- 삭제의 경우 트랜잭션 내에서 유효성 검사를 하는 부분이 없어 try...catch를 통해 에러 던짐 (롤백)
+
+2. Controller에서 AuthGuard 잘못된 사용
+
+- AuthGuard 이렇게만 적어서 서버 시작 시 오류..
+- AuthGuard('jwt') 로 바꿔주었음 !
+
+````
 
 </details>
 
@@ -545,7 +532,7 @@ Feat: [performance/read] 모든 공연 조회 API 추가
 <summary> Code Convention </summary>
 
 * 변수명 : `camelCase`
-* 클래스명 : `PascalCase` 
+* 클래스명 : `PascalCase`
 * Prettier
 
 ```json
@@ -559,7 +546,8 @@ Feat: [performance/read] 모든 공연 조회 API 추가
   "trailingComma": "none"
 }
 
-```
+````
+
 </details>    
         
 <details>   
@@ -570,8 +558,6 @@ Feat: [performance/read] 모든 공연 조회 API 추가
 
 </details>
 <br><br><br>
-
-
 
 ## 환경변수
 
@@ -617,22 +603,3 @@ REDIS_PASSWORD= 레디스 클라우드 비밀번호
 npm install
 npm run start:dev
 ```
-
-## 설계 문서
-
-- ERD: https://dbdiagram.io/d/Final_Project_HappyMoney-658a371b89dea6279988f566
-
-- 와이어프레임: https://www.figma.com/file/g1xNcU7RORoY56gcK8QJnz/Final_Project_Happy_Money?type=design&node-id=0-1&mode=design&t=ohgAuc10sJl9k2Yf-0
-
-## Swagger 접속 주소
-
-/api-docs
-
-## 참고 자료
-
-- Nest.js 공식 문서: https://docs.nestjs.com
-- TypeORM 공식 문서: https://typeorm.io
-- Joi: https://www.npmjs.com/package/joi
-- Class Validator: https://www.npmjs.com/package/class-validator
-- Validator: https://www.npmjs.com/package/validator
-- Passport 공식 문서: https://www.passportjs.org/docs
